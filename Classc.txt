@@ -1,0 +1,7 @@
+class A extends class B
+
+class B extends class C
+
+//Here class C is super class of class B subclass. In java, We have to call super class method using super keyword. so answer is
+
+b. super.test();
